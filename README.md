@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @srithaaaaa
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning IT/CYBERSECURITY
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me Sbojja@myyahoo.com
+- 😄 Pronouns: her/she
+- ⚡ Fun fact: like learning
 
 <!---
 srithaaaaa/srithaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
